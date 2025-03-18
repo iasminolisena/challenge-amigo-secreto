@@ -19,3 +19,20 @@ Este é um projeto simples de aplicação web para realizar o sorteio de "Amigo 
 1. **Clone o repositório**:
    ```bash
    git clone https://github.com/SEU-USUARIO/amigo-secreto.git
+2. **Abra o arquivo**:
+   index.html no seu navegador preferido.
+3. **Adicione amigos**:
+   Digite o nome de um amigo no campo de texto e clique em "Adicionar" para incluir na lista de amigos.
+4. **Sortear amigo secreto**:
+   Clique no botão "Sortear amigo" para ver o nome do amigo secreto sorteado aleatoriamente.
+
+## Estrutura do Projeto
+- **index.html**: Arquivo principal da aplicação com a estrutura HTML.
+- **style.css**: Arquivo de estilos para a página.
+- **app.js**: Arquivo JavaScript com a lógica de adicionar amigos e realizar o sorteio.
+
+## Contribuindo
+Se você deseja contribuir para este projeto, fique à vontade para abrir um pull request ou relatar problemas através de issues.
+
+## Licença
+Este projeto está licenciado sob a MIT License.
